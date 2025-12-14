@@ -55,12 +55,7 @@ const Design = () => {
               </div>
             )}
           </div>
-          <div className='w-screen flex justify-center items-center h-20 bg-green-200 flex-col'>
-            <div>
-            <p>Design & Developed by <a href="https://codewithabi.vercel.app" className='hover: underline font-bold'>Abishek</a></p>
-            <p className='flex'>Follow me  <span>...</span><a href="https://github.com/Abishek00ujj"><Github fill='orange'/></a></p>
-            </div>
-          </div>
+          
         </div>
       )}
     </>
